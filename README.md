@@ -13,3 +13,7 @@ This project explores deep learning theory and intuition, focusing on Convolutio
 Fourth Project Title: Unsupervised Machine Learning for Customer Market Segmentation (KMeans Clustering, Elbow Method, PCA)
 
 The project aims to develop a customer market segmentation solution using unsupervised machine learning algorithms. Utilizing AI and machine learning techniques (KMeans Clustering, Elbow Method, PCA), it automates the process, identifying patterns, similarities, and relationships in customer data. Implemented using Python programming and Jupyter Notebook, the project follows a systematic workflow, analyzing and interpreting customer segments for insights into characteristics, behaviors, and preferences. Evaluating the segmentation model's performance and robustness using metrics like silhouette score and the within-cluster sum of squares.
+
+Fifth Project Title: Credit Card Fraud Detection
+
+The Credit Card Fraud Detection project aims to build a machine-learning model to detect fraudulent credit card transactions accurately. The project utilizes a dataset containing anonymized credit card transactions, where each transaction is labeled as either fraudulent or genuine. The dataset is highly imbalanced, with a small fraction of fraud cases compared to genuine cases.
